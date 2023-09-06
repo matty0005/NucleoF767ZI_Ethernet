@@ -1,0 +1,5 @@
+Debug/
+Core/
+*.o
+*.bin
+*.d
